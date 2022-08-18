@@ -1,4 +1,4 @@
-public class Acharya_Atul_Player extends Player{
+public class Acharya_Atul_Player extends Player {
 
     int selectAction(int n, int[] myHistory, int[] oppHistory1, int[] oppHistory2) {
 
